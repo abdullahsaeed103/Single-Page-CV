@@ -21,6 +21,9 @@ A simple and clean **Single Page CV / Resume** built using only HTML and very li
 > <img width="928" height="875" alt="Capture 24" src="https://github.com/user-attachments/assets/36bab8bd-9898-44b4-8d21-838597ef1d17" />
 
 > project url : https://graceful-blancmange-582f8c.netlify.app/
+
+
+
 >Project page url : https://roadmap.sh/projects/single-page-cv
 
 ## 🧩 Sections Included
