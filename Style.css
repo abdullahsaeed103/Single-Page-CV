@@ -1,0 +1,29 @@
+#Main {
+  margin: 60px;
+}
+
+h1 {
+  font-weight: 400;
+}
+
+h5 {
+  font-weight: 300;
+  font-size: 15px;
+  color: green;
+}
+
+h4 {
+  font-weight: 300;
+  color: rgb(47, 47, 167);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+hr {
+  width: 50%;
+
+  margin-right: 50%;
+}
